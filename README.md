@@ -1,9 +1,4 @@
-# ngx-charts (f.k.a. ng2d3)
-[![Join the chat at https://gitter.im/swimlane/ngx-charts](https://badges.gitter.im/swimlane/ngx-charts.svg)](https://gitter.im/swimlane/ngx-charts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
-[![Build Status](https://travis-ci.org/swimlane/ngx-charts.svg?branch=master)](https://travis-ci.org/swimlane/ngx-charts) 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b097196f7f544412a79a99080a41bbc1)](https://www.codacy.com/app/Swimlane/ngx-charts?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=swimlane/ngx-charts&amp;utm_campaign=Badge_Grade)
-[![Test Coverage](https://codeclimate.com/github/swimlane/ngx-charts/badges/coverage.svg)](https://codeclimate.com/github/swimlane/ngx-charts/coverage)
-[![npm version](https://badge.fury.io/js/%40swimlane%2Fngx-charts.svg)](https://badge.fury.io/js/%40swimlane%2Fngx-charts)
+# ngx-Custom
 
 Declarative Charting Framework for Angular2 and beyond!
 
@@ -13,7 +8,6 @@ Data visualization is a science but that doesn't mean it has to be ugly. One of 
 
 Also, constructing custom charts is possible by leveraging the various ngx-charts components that are exposed through the ngx-charts module.
 
-For more info, check out the [documentation](https://swimlane.gitbooks.io/ngx-charts/content/) and the [demos](https://swimlane.github.io/ngx-charts/).
 
 ## Features
 ### Chart Types
@@ -41,15 +35,9 @@ For more info, check out the [documentation](https://swimlane.gitbooks.io/ngx-ch
 - Data point Event Handlers
 - Works with ngUpgrade
 
-## Install
-To use ngx-charts in your project install it via [npm](https://www.npmjs.com/package/@swimlane/ngx-charts):
 
-```
-npm i @swimlane/ngx-charts --save
-```
-
-**Note: ngx-charts 5.0.0 works only with Angular 4.x. 
-To use ngx-charts with Angular 2.x, use ngx-charts 4.x.**
+**Note: ngx 5.0.0 works only with Angular 4.x. 
+To use ngx with Angular 2.x, use ngx-charts 4.x.**
 
 ## Credits
-`ngx-charts` is a [Swimlane](http://swimlane.com) open-source project; we believe in giving back to the open-source community by sharing some of the projects we build for our application. Swimlane is an automated cyber security operations and incident response platform that enables cyber security teams to leverage threat intelligence, speed up incident response and automate security operations.
+ [Swimlane](http://swimlane.com) open-source project
